@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E1648"/>
+      <stop offset="1" stop-color="#090A18"/>
+    </linearGradient>
+    <linearGradient id="drop" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#C084FC"/>
+      <stop offset="0.5" stop-color="#7C5CFF"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.6" r="0.5">
+      <stop offset="0" stop-color="#7C5CFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <circle cx="256" cy="300" r="210" fill="url(#glow)"/>
+  <!-- the drop -->
+  <path d="M256 64 C300 132 388 206 388 304 A132 132 0 1 1 124 304 C124 206 212 132 256 64 Z" fill="url(#drop)"/>
+  <!-- glossy highlight -->
+  <path d="M206 168 C178 206 158 246 156 292 C155 306 170 310 174 296 C184 254 200 222 224 186 C232 174 216 158 206 168 Z" fill="url(#shine)"/>
+  <!-- the spark of an idea -->
+  <path d="M256 236 Q262 298 324 306 Q262 314 256 376 Q250 314 188 306 Q250 298 256 236 Z" fill="#FFFFFF"/>
+  <path d="M322 214 Q324 236 346 238 Q324 240 322 262 Q320 240 298 238 Q320 236 322 214 Z" fill="#FFFFFF" fill-opacity="0.85"/>
+  <circle cx="200" cy="372" r="9" fill="#FFFFFF" fill-opacity="0.7"/>
+</svg>

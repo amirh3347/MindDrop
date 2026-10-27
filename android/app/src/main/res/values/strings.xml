@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindDrop</string>
+    <string name="shortcut_new_task">New drop</string>
+    <string name="shortcut_new_task_long">Capture a new task</string>
+    <string name="shortcut_search">Search</string>
+    <string name="shortcut_search_long">Search your tasks</string>
+    <string name="share_label">Save to MindDrop</string>
+</resources>

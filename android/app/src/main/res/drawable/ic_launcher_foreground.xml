@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive icon foreground: the MindDrop droplet with its spark. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <group
+        android:pivotX="256"
+        android:pivotY="250"
+        android:scaleX="0.72"
+        android:scaleY="0.72"
+        android:translateY="6">
+        <path android:pathData="M256,64 C300,132 388,206 388,304 A132,132 0 1,1 124,304 C124,206 212,132 256,64 Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:type="linear"
+                    android:startX="180"
+                    android:startY="64"
+                    android:endX="332"
+                    android:endY="436">
+                    <item android:offset="0" android:color="#FFC084FC" />
+                    <item android:offset="0.5" android:color="#FF7C5CFF" />
+                    <item android:offset="1" android:color="#FF22D3EE" />
+                </gradient>
+            </aapt:attr>
+        </path>
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.35"
+            android:pathData="M206,168 C178,206 158,246 156,292 C155,306 170,310 174,296 C184,254 200,222 224,186 C232,174 216,158 206,168 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M256,236 Q262,298 324,306 Q262,314 256,376 Q250,314 188,306 Q250,298 256,236 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.85"
+            android:pathData="M322,214 Q324,236 346,238 Q324,240 322,262 Q320,240 298,238 Q320,236 322,214 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:fillAlpha="0.7"
+            android:pathData="M191,372 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0 Z" />
+    </group>
+</vector>

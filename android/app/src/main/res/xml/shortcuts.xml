@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Long-press the launcher icon to see these. -->
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_add"
+        android:shortcutId="new_task"
+        android:shortcutLongLabel="@string/shortcut_new_task_long"
+        android:shortcutShortLabel="@string/shortcut_new_task">
+        <intent
+            android:action="com.minddrop.app.action.NEW_TASK"
+            android:targetClass="com.minddrop.app.MainActivity"
+            android:targetPackage="com.minddrop.app" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_search"
+        android:shortcutId="search"
+        android:shortcutLongLabel="@string/shortcut_search_long"
+        android:shortcutShortLabel="@string/shortcut_search">
+        <intent
+            android:action="com.minddrop.app.action.SEARCH"
+            android:targetClass="com.minddrop.app.MainActivity"
+            android:targetPackage="com.minddrop.app" />
+    </shortcut>
+</shortcuts>
