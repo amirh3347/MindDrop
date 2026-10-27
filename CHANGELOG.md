@@ -25,5 +25,5 @@ project uses [Semantic Versioning](https://semver.org/).
 - "Share → MindDrop" from any app, and launcher shortcuts for new task and search.
 - GitHub Actions pipelines for CI builds and signed releases.
 
-[Unreleased]: https://github.com/OWNER/MindDrop/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/OWNER/MindDrop/releases/tag/v1.0.0
+[Unreleased]: https://github.com/amirh3347/MindDrop/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/amirh3347/MindDrop/releases/tag/v1.0.0

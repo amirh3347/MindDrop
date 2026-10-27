@@ -24,11 +24,11 @@ git remote add origin https://github.com/<you>/MindDrop.git
 git push -u origin main
 ```
 
-Then replace `OWNER` with your GitHub username in `README.md`, `README.fa.md` and
-`CHANGELOG.md` so the badges and links work:
+If you are publishing a fork, point the badges and links in `README.md`,
+`README.fa.md` and `CHANGELOG.md` at your own repository:
 
 ```bash
-sed -i 's#OWNER/MindDrop#<you>/MindDrop#g' README.md README.fa.md CHANGELOG.md
+sed -i 's#amirh3347/MindDrop#<you>/MindDrop#g' README.md README.fa.md CHANGELOG.md
 ```
 
 ## 2. Create a signing key (one time, strongly recommended)

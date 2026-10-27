@@ -9,7 +9,7 @@
 یک صندوق کارهای سریع، آفلاین و خوش‌ظاهر برای اندروید؛ ساخته‌شده برای همون لحظه‌ای که
 یهو یه چیزی یادت میاد.
 
-[**دانلود آخرین نسخه**](https://github.com/OWNER/MindDrop/releases/latest) ·
+[**دانلود آخرین نسخه**](https://github.com/amirh3347/MindDrop/releases/latest) ·
 [English](README.md) ·
 [راهنمای بیلد](docs/BUILDING.md)
 
@@ -53,7 +53,7 @@
 
 ## نصب
 
-۱. صفحه‌ی [آخرین نسخه](https://github.com/OWNER/MindDrop/releases/latest) رو روی گوشی باز کن.<br>
+۱. صفحه‌ی [آخرین نسخه](https://github.com/amirh3347/MindDrop/releases/latest) رو روی گوشی باز کن.<br>
 ۲. فایل `MindDrop-vX.Y.Z.apk` رو دانلود کن و بازش کن.<br>
 ۳. اگه اندروید پرسید، اجازه‌ی نصب از مرورگر یا فایل‌منیجر رو بده.
 

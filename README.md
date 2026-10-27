@@ -7,12 +7,12 @@
 A fast, offline, beautifully themed task inbox for Android — built for the moment
 something pops into your head.
 
-[![CI](https://github.com/OWNER/MindDrop/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/MindDrop/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/OWNER/MindDrop?sort=semver)](https://github.com/OWNER/MindDrop/releases/latest)
+[![CI](https://github.com/amirh3347/MindDrop/actions/workflows/ci.yml/badge.svg)](https://github.com/amirh3347/MindDrop/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/amirh3347/MindDrop?sort=semver)](https://github.com/amirh3347/MindDrop/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-7C5CFF.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Android%207%2B-22D3EE.svg)
 
-[**Download the latest APK**](https://github.com/OWNER/MindDrop/releases/latest) ·
+[**Download the latest APK**](https://github.com/amirh3347/MindDrop/releases/latest) ·
 [فارسی](README.fa.md) ·
 [Building](docs/BUILDING.md) ·
 [Changelog](CHANGELOG.md)
@@ -47,7 +47,7 @@ type a line, hit enter. Done in two seconds. Sort it out later.
 
 ## Install
 
-1. Open the [latest release](https://github.com/OWNER/MindDrop/releases/latest) on your phone.
+1. Open the [latest release](https://github.com/amirh3347/MindDrop/releases/latest) on your phone.
 2. Download `MindDrop-vX.Y.Z.apk` and open it.
 3. If Android asks, allow installing apps from your browser / file manager.
 
